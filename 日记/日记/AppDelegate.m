@@ -17,9 +17,12 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
+<<<<<<< HEAD
     NSLog(@"hello");
     
     
+=======
+>>>>>>> parent of 7b26ff9... hello
     return YES;
 }
 
